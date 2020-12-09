@@ -11,106 +11,106 @@ var dates = [
 	
         {
 		"date":"<del>3/12",
-		"loc":"Baltimore, MD",
-		"venue":" 'The Common Task' Record Release at The Ottobar",
-		"link":"http://www.theottobar.com/</del>"
+		"loc":"<del>Baltimore, MD",
+		"venue":"<del> 'The Common Task' Record Release at The Ottobar",
+		"link":"<del>http://www.theottobar.com/</del>"
 	},
 	{
 		"date":"<del>3/13",
-		"loc":"Philadelphia, PA",
-		"venue":"Vox Populi",
-		"link":"http://voxpopuligallery.org/</del>"
+		"loc":"<del>Philadelphia, PA",
+		"venue":"<del>Vox Populi",
+		"link":"<del>http://voxpopuligallery.org/</del>"
 	},
 		{
 		"date":"<del>3/14",
-		"loc":"Brooklyn, NY",
-		"venue":"Union Pool",
-		"link":"https://www.union-pool.com/</del>"
+		"loc":"<del>Brooklyn, NY",
+		"venue":"<del>Union Pool",
+		"link":"<del>https://www.union-pool.com/</del>"
 	},
 		{
 		"date":"<del>3/15",
-		"loc":"Washington, DC",
-		"venue":"Rhizome",
-		"link":"http://www.rhizomedc.org/</del>"
+		"loc":"<del>Washington, DC",
+		"venue":"<del>Rhizome",
+		"link":"<del>http://www.rhizomedc.org/</del>"
 	},
 		{
 		"date":"<del>3/16",
-		"loc":"Richmond, VA",
-		"venue":"Cary St. Cafe",
-		"link":"https://www.facebook.com/CaryStreetCafe/</del>"
+		"loc":"<del>Richmond, VA",
+		"venue":"<del>Cary St. Cafe",
+		"link":"<del>https://www.facebook.com/CaryStreetCafe/</del>"
 	},
 		{
 		"date":"<del>3/18",
-		"loc":"Detroit, MI",
-		"venue":"UFO Factory",
-		"link":"https://www.facebook.com/ufofactorydetroit/</del>"
+		"loc":"<del>Detroit, MI",
+		"venue":"<del>UFO Factory",
+		"link":"<del>https://www.facebook.com/ufofactorydetroit/</del>"
 	},
 	{
 		"date":"<del>3/19",
-		"loc":"Cincinatti, OH",
-		"venue":"Northside Tavern",
-		"link":"http://www.northsidetav.com/cincy/</del>"
+		"loc":"<del>Cincinatti, OH",
+		"venue":"<del>Northside Tavern",
+		"link":"<del>http://www.northsidetav.com/cincy/</del>"
 	},
 		{
 		"date":"<del>3/20",
-		"loc":"Chicago, IL",
-		"venue":"The Hideout",
-		"link":"https://www.hideoutchicago.com/</del>"
+		"loc":"<del>Chicago, IL",
+		"venue":"<del>The Hideout",
+		"link":"<del>https://www.hideoutchicago.com/</del>"
 	},
 		{
 		"date":"<del>3/21",
-		"loc":"Chicago, IL",
-		"venue":"The Hideout",
-		"link":"https://www.hideoutchicago.com/</del>"
+		"loc":"<del>Chicago, IL",
+		"venue":"<del>The Hideout",
+		"link":"<del>https://www.hideoutchicago.com/</del>"
 	},
 	
 			{
 		"date":"<del>5/1",
-		"loc":"Brooklyn, NY",
-		"venue":"Bang on a Can LONG PLAY Festival",
-		"link":"https://www.longplayfestival.org/</del>"
+		"loc":"<del>Brooklyn, NY",
+		"venue":"<del>Bang on a Can LONG PLAY Festival",
+		"link":"<del>https://www.longplayfestival.org/</del>"
 	},
 	
 	{
 		"date":"<del>5/8",
-		"loc":"Odesnse, DK",
-		"venue":"Momentum",
+		"loc":"<del>Odesnse, DK",
+		"venue":"<del>Momentum",
 		"link":"</del>"
 	},
 		{
 		"date":"<del>5/9",
-		"loc":"Copenhagen, DK",
-		"venue":"Alice",
+		"loc":"<del>Copenhagen, DK",
+		"venue":"<del>Alice",
 		"link":"</del>"
 	},
 		{
 		"date":"<del>5/14",
-		"loc":"Lyon, FR",
-		"venue":"Le Sonic",
+		"loc":"<del>Lyon, FR",
+		"venue":"<del>Le Sonic",
 		"link":"</del>"
 	},
 		{
 		"date":"<del>5/15",
-		"loc":"Nancy, FR",
-		"venue":"Bon Moment @ L'Autre Canal",
+		"loc":"<del>Nancy, FR",
+		"venue":"<del>Bon Moment @ L'Autre Canal",
 		"link":"</del>"
 	},
 			{
 		"date":"<del>5/16",
-		"loc":"Willingen, DE",
-		"venue":"Kernmacherei",
+		"loc":"<del>Willingen, DE",
+		"venue":"<del>Kernmacherei",
 		"link":"</del>"
 	},
 			{
 		"date":"<del>5/18",
-		"loc":"Hamburg, DE",
-		"venue":"Kampnagel",
+		"loc":"<del>Hamburg, DE",
+		"venue":"<del>Kampnagel",
 		"link":"</del>"
 	},
 				{
 		"date":"<del>5/19",
-		"loc":"Aarhus, DK",
-		"venue":"Tape",
+		"loc":"<del>Aarhus, DK",
+		"venue":"<del>Tape",
 		"link":"</del>"
 	}
 	
