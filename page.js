@@ -10,108 +10,108 @@ var dates = [
         
 	
         {
-		"date":"3/12",
+		"date":"<del>3/12",
 		"loc":"Baltimore, MD",
 		"venue":" 'The Common Task' Record Release at The Ottobar",
-		"link":"http://www.theottobar.com/"
+		"link":"http://www.theottobar.com/</del>"
 	},
 	{
-		"date":"3/13",
+		"date":"<del>3/13",
 		"loc":"Philadelphia, PA",
 		"venue":"Vox Populi",
-		"link":"http://voxpopuligallery.org/"
+		"link":"http://voxpopuligallery.org/</del>"
 	},
 		{
-		"date":"3/14",
+		"date":"<del>3/14",
 		"loc":"Brooklyn, NY",
 		"venue":"Union Pool",
-		"link":"https://www.union-pool.com/"
+		"link":"https://www.union-pool.com/</del>"
 	},
 		{
-		"date":"3/15",
+		"date":"<del>3/15",
 		"loc":"Washington, DC",
 		"venue":"Rhizome",
-		"link":"http://www.rhizomedc.org/"
+		"link":"http://www.rhizomedc.org/</del>"
 	},
 		{
-		"date":"3/16",
+		"date":"<del>3/16",
 		"loc":"Richmond, VA",
 		"venue":"Cary St. Cafe",
-		"link":"https://www.facebook.com/CaryStreetCafe/"
+		"link":"https://www.facebook.com/CaryStreetCafe/</del>"
 	},
 		{
-		"date":"3/18",
+		"date":"<del>3/18",
 		"loc":"Detroit, MI",
 		"venue":"UFO Factory",
-		"link":"https://www.facebook.com/ufofactorydetroit/"
+		"link":"https://www.facebook.com/ufofactorydetroit/</del>"
 	},
 	{
-		"date":"3/19",
+		"date":"<del>3/19",
 		"loc":"Cincinatti, OH",
 		"venue":"Northside Tavern",
-		"link":"http://www.northsidetav.com/cincy/"
+		"link":"http://www.northsidetav.com/cincy/</del>"
 	},
 		{
-		"date":"3/20",
+		"date":"<del>3/20",
 		"loc":"Chicago, IL",
 		"venue":"The Hideout",
-		"link":"https://www.hideoutchicago.com/"
+		"link":"https://www.hideoutchicago.com/</del>"
 	},
 		{
-		"date":"3/21",
+		"date":"<del>3/21",
 		"loc":"Chicago, IL",
 		"venue":"The Hideout",
-		"link":"https://www.hideoutchicago.com/"
+		"link":"https://www.hideoutchicago.com/</del>"
 	},
 	
 			{
-		"date":"5/1",
+		"date":"<del>5/1",
 		"loc":"Brooklyn, NY",
 		"venue":"Bang on a Can LONG PLAY Festival",
-		"link":"https://www.longplayfestival.org/"
+		"link":"https://www.longplayfestival.org/</del>"
 	},
 	
 	{
-		"date":"5/8",
+		"date":"<del>5/8",
 		"loc":"Odesnse, DK",
 		"venue":"Momentum",
-		"link":""
+		"link":"</del>"
 	},
 		{
-		"date":"5/9",
+		"date":"<del>5/9",
 		"loc":"Copenhagen, DK",
 		"venue":"Alice",
-		"link":""
+		"link":"</del>"
 	},
 		{
-		"date":"5/14",
+		"date":"<del>5/14",
 		"loc":"Lyon, FR",
 		"venue":"Le Sonic",
-		"link":""
+		"link":"</del>"
 	},
 		{
-		"date":"5/15",
+		"date":"<del>5/15",
 		"loc":"Nancy, FR",
 		"venue":"Bon Moment @ L'Autre Canal",
-		"link":""
+		"link":"</del>"
 	},
 			{
-		"date":"5/16",
+		"date":"<del>5/16",
 		"loc":"Willingen, DE",
 		"venue":"Kernmacherei",
-		"link":""
+		"link":"</del>"
 	},
 			{
-		"date":"5/18",
+		"date":"<del>5/18",
 		"loc":"Hamburg, DE",
 		"venue":"Kampnagel",
-		"link":""
+		"link":"</del>"
 	},
 				{
-		"date":"5/19",
+		"date":"<del>5/19",
 		"loc":"Aarhus, DK",
 		"venue":"Tape",
-		"link":""
+		"link":"</del>"
 	}
 	
 	
