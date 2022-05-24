@@ -2,126 +2,88 @@
 var dates = [
 
       {
-		"date":"2/13 - 3/1",
-		"loc":"Baltimore, MD",
-		"venue":"The Acme Corporation Presents - The First Thing That Happens, an Opera by Lola Pierson and Horse Lords, at The Voxel Theatre",
-	    "link":	"https://www.facebook.com/events/2612505678968129/"
+		"date":"May 28",
+		"loc":"Berlin, DE",
+		"venue":"KM28",
+	    "link":	"https://www.km28.de"
 	},
         
 	
         {
-		"date":"<del>3/12",
-		"loc":"<del>Baltimore, MD",
-		"venue":"<del> 'The Common Task' Record Release at The Ottobar",
-		"link":"<del>http://www.theottobar.com/</del>"
+		"date":"May 29",
+		"loc":"Amsterdam, NL",
+		"venue":"OCCII",
+		"link":"https://occii.org/"
 	},
 	{
-		"date":"<del>3/13",
-		"loc":"<del>Philadelphia, PA",
-		"venue":"<del>Vox Populi",
-		"link":"<del>http://voxpopuligallery.org/</del>"
+		"date":"May 30",
+		"loc":"London, UK",
+		"venue":"Cafe Oto",
+		"link":"https://www.cafeoto.co.uk/"
 	},
 		{
-		"date":"<del>3/14",
-		"loc":"<del>Brooklyn, NY",
-		"venue":"<del>Union Pool",
-		"link":"<del>https://www.union-pool.com/</del>"
+		"date":"May 31",
+		"loc":"Liverpool, UK",
+		"venue":"Kazimier Stockroom",
+		"link":"https://www.invisiblewindfactory.com/stockroom"
 	},
 		{
-		"date":"<del>3/15",
-		"loc":"<del>Washington, DC",
-		"venue":"<del>Rhizome",
-		"link":"<del>http://www.rhizomedc.org/</del>"
+		"date":"June 1",
+		"loc":"Bristol, UK",
+		"venue":"Dareshack",
+		"link":"https://www.dareshack.com/"
 	},
 		{
-		"date":"<del>3/16",
-		"loc":"<del>Richmond, VA",
-		"venue":"<del>Cary St. Cafe",
-		"link":"<del>https://www.facebook.com/CaryStreetCafe/</del>"
+		"date":"June 2",
+		"loc":"Brighton, UK",
+		"venue":"Green Door Store",
+		"link":"https://thegreendoorstore.co.uk/"
 	},
 		{
-		"date":"<del>3/18",
-		"loc":"<del>Detroit, MI",
-		"venue":"<del>UFO Factory",
-		"link":"<del>https://www.facebook.com/ufofactorydetroit/</del>"
+		"date":"June 3",
+		"loc":"Brussels, BE",
+		"venue":"Les Atelier Claus",
+		"link":"http://www.lesateliersclaus.com/"
 	},
 	{
-		"date":"<del>3/19",
-		"loc":"<del>Cincinatti, OH",
-		"venue":"<del>Northside Tavern",
-		"link":"<del>http://www.northsidetav.com/cincy/</del>"
+		"date":"June 4",
+		"loc":"Antwerp, BE",
+		"venue":"Het-Bos",
+		"link":"https://www.hetbos.be/"
 	},
 		{
-		"date":"<del>3/20",
-		"loc":"<del>Chicago, IL",
-		"venue":"<del>The Hideout",
-		"link":"<del>https://www.hideoutchicago.com/</del>"
+		"date":"June 5 - 6",
+		"loc":"Moers, DE",
+		"venue":"Moers Festival",
+		"link":"https://www.moers-festival.de/en"
 	},
 		{
-		"date":"<del>3/21",
-		"loc":"<del>Chicago, IL",
-		"venue":"<del>The Hideout",
-		"link":"<del>https://www.hideoutchicago.com/</del>"
+		"date":"June 7",
+		"loc":"Bern, CH",
+		"venue":"ISC",
+		"link":"https://isc-club.ch/"
 	},
 	
 			{
-		"date":"<del>5/1",
-		"loc":"<del>Brooklyn, NY",
-		"venue":"<del>Bang on a Can LONG PLAY Festival",
-		"link":"<del>https://www.longplayfestival.org/</del>"
+		"date":"June 8",
+		"loc":"Ravenna, IT",
+		"venue":"Beaches Brew Festival",
+		"link":"https://www.beachesbrew.com/"
 	},
 	
 	{
-		"date":"<del>5/8",
-		"loc":"<del>Odesnse, DK",
-		"venue":"<del>Momentum",
-		"link":"</del>"
+		"date":"June 10",
+		"loc":"Prato, IT",
+		"venue":"Off Tune Festival",
+		"link":"https://offtunefestival.it/"
 	},
 		{
-		"date":"<del>5/9",
-		"loc":"<del>Copenhagen, DK",
-		"venue":"<del>Alice",
-		"link":"</del>"
-	},
-		{
-		"date":"<del>5/14",
-		"loc":"<del>Lyon, FR",
-		"venue":"<del>Le Sonic",
-		"link":"</del>"
-	},
-		{
-		"date":"<del>5/15",
-		"loc":"<del>Nancy, FR",
-		"venue":"<del>Bon Moment @ L'Autre Canal",
-		"link":"</del>"
-	},
-			{
-		"date":"<del>5/16",
-		"loc":"<del>Willingen, DE",
-		"venue":"<del>Kernmacherei",
-		"link":"</del>"
-	},
-			{
-		"date":"<del>5/18",
-		"loc":"<del>Hamburg, DE",
-		"venue":"<del>Kampnagel",
-		"link":"</del>"
-	},
-				{
-		"date":"<del>5/19",
-		"loc":"<del>Aarhus, DK",
-		"venue":"<del>Tape",
-		"link":"</del>"
+		"date":"June 11",
+		"loc":"Cigole",
+		"venue":"A Forest Festival",
+		"link":"https://www.facebook.com/Nosilenz.festival/"
 	}
 	
-	
-	
-
-
-
-
-
-
 	
 
 	];
