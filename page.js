@@ -2,86 +2,86 @@
 var dates = [
 
       {
-		"date":"May 28",
+		"date":"November 3",
 		"loc":"Berlin, DE",
-		"venue":"KM28",
-	    "link":	"https://www.km28.de"
+		"venue":"Silent Green",
+	    "link":	"https://ticketorganizer.eu/event/horse-lords-northern-spy"
 	},
         
 	
         {
-		"date":"May 29",
-		"loc":"Amsterdam, NL",
-		"venue":"OCCII",
-		"link":"https://occii.org/"
+		"date":"November 6",
+		"loc":"Prague, CZ",
+		"venue":"Punctum",
+		"link":"https://punctum.cz/"
 	},
 	{
-		"date":"May 30",
+		"date":"November 8",
+		"loc":"Aarhus, DK",
+		"venue":"Alter @ Kunsthal Aarhus",
+		"link":"https://tikkio.com/tickets/31724-alter-horse-lords"
+	},
+		{
+		"date":"November 9",
+		"loc":"Copenhagen, DK",
+		"venue":"Valby Kulturhus",
+		"link":"https://billetto.dk/e/horse-lords-us-at-valby-kulturhus-billetter-683993"
+	},
+		{
+		"date":"November 10",
+		"loc":"Odense, DK",
+		"venue":"Momentum",
+		"link":"http://www.place2book.com/da/sw2/sales/qywyd0eru8"
+	},
+		{
+		"date":"November 11",
+		"loc":"Leipzig, DE",
+		"venue":"Transcentury Update",
+		"link":"https://www.tixforgigs.com/Event/32976?af=ozqw0atnumoi&saf=s54498u"
+	},
+		{
+		"date":"November 13",
+		"loc":"Utrecht, NL",
+		"venue":"Le Guess Who?",
+		"link":"https://www.leguesswho.nl/tickets"
+	},
+	{
+		"date":"November 15",
+		"loc":"Manchester, UK",
+		"venue":"White Hotel",
+		"link":"https://www.seetickets.com/event/horse-lords/the-white-hotel/2386679"
+	},
+		{
+		"date":"November 16",
 		"loc":"London, UK",
-		"venue":"Cafe Oto",
-		"link":"https://www.cafeoto.co.uk/"
+		"venue":"EFG London Jazz @ Moth Club",
+		"link":"https://songkick.seetickets.com/event/horse-lords/moth-club/2367743?pref1=40487894&aff=id1songkick"
 	},
 		{
-		"date":"May 31",
-		"loc":"Liverpool, UK",
-		"venue":"Kazimier Stockroom",
-		"link":"https://www.invisiblewindfactory.com/stockroom"
-	},
-		{
-		"date":"June 1",
-		"loc":"Bristol, UK",
-		"venue":"Dareshack",
-		"link":"https://www.dareshack.com/"
-	},
-		{
-		"date":"June 2",
-		"loc":"Brighton, UK",
-		"venue":"Green Door Store",
-		"link":"https://thegreendoorstore.co.uk/"
-	},
-		{
-		"date":"June 3",
-		"loc":"Brussels, BE",
-		"venue":"Les Atelier Claus",
-		"link":"http://www.lesateliersclaus.com/"
-	},
-	{
-		"date":"June 4",
-		"loc":"Antwerp, BE",
-		"venue":"Het-Bos",
-		"link":"https://www.hetbos.be/"
-	},
-		{
-		"date":"June 5 - 6",
-		"loc":"Moers, DE",
-		"venue":"Moers Festival",
-		"link":"https://www.moers-festival.de/en"
-	},
-		{
-		"date":"June 7",
-		"loc":"Bern, CH",
-		"venue":"ISC",
-		"link":"https://isc-club.ch/"
+		"date":"November 17",
+		"loc":"Paris, FR",
+		"venue":"Gare XP",
+		"link":"https://garexp.org/"
 	},
 	
 			{
-		"date":"June 8",
-		"loc":"Ravenna, IT",
-		"venue":"Beaches Brew Festival",
-		"link":"https://www.beachesbrew.com/"
+		"date":"November 18",
+		"loc":"Lyon, FR",
+		"venue":"Le Sonic",
+		"link":"https://yurplan.com/event/HORSE-LORDS-guest-au-Sonic/89523#/"
 	},
 	
 	{
-		"date":"June 10",
-		"loc":"Prato, IT",
-		"venue":"Off Tune Festival",
-		"link":"https://offtunefestival.it/"
+		"date":"November 19",
+		"loc":"Chaux-Du Fonds, CH",
+		"venue":"Bikini Test",
+		"link":"https://www.bikinitest.ch/"
 	},
 		{
-		"date":"June 11",
-		"loc":"Cigole",
-		"venue":"A Forest Festival",
-		"link":"https://www.facebook.com/Nosilenz.festival/"
+		"date":"November 20",
+		"loc":"St. Gallen, CH",
+		"venue":"Palace",
+		"link":"https://www.petzi.ch/de/events/49838-palace-horse-lords-us-omni-selassi-ch/"
 	}
 	
 	
