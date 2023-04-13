@@ -2,73 +2,66 @@
 var dates = [
 
       {
-		"date":"March 7",
-		"loc":"Savona, IT",
-		"venue":"Raindogs",
-	    "link":	"https://raindogshouse.com/"
+		"date":"June 16 ",
+		"loc":"Paris, FR",
+		"venue":"Centre Pompidou",
+	    "link":	""
 	},
         
 	
         {
-		"date":"March 8",
-		"loc":"Milano, IT",
-		"venue":"Spazio Teatro 89",
-		"link":"https://link.dice.fm/B636f5a6647d"
+		"date":"July 22",
+		"loc":"Vigo, ES",
+		"venue":"Sinsal Festival",
+		"link":"https://festival.sins.al/gl"
 	},
 	{
-		"date":"March 9",
-		"loc":"Foligno",
-		"venue":"Spazio Zut",
-		"link":"https://www.diyticket.it/events/Musica/10275/ufo-23-horse-lords"
+		"date":"August 4",
+		"loc":"Genk, BE",
+		"venue":"Absolutely Free Festival",
+		"link":"https://www.instagram.com/absolutelyfreefestival/?hl=en"
 	},
 		{
-		"date":"March 10",
-		"loc":"Ravenna, IT",
-		"venue":"Bronson",
-		"link":"https://link.dice.fm/l8fcd4e597c2"
+		"date":"August 5",
+		"loc":"Cernoy, FR",
+		"venue":"Celebration Days",
+		"link":"https://celebrationdays.org/"
 	},
 		{
-		"date":"March 11",
-		"loc":"Innsbruck, AT",
-		"venue":"Die Bäckerei",
-		"link":"https://unterton.org/veranstaltungen"
+		"date":"August 6",
+		"loc":"Liege, BE",
+		"venue":"Micro Festival",
+		"link":"https://microfestival.be/"
 	},
 		{
-		"date":"March 12",
-		"loc":"Nürnberg, DE",
-		"venue":"Kantine",
-		"link":"https://www.tixforgigs.com/Event/46442"
+		"date":"August 31",
+		"loc":"London, UK",
+		"venue":"Studio 9294",
+		"link":"http://studio9294.co.uk/"
 	},
 		{
-		"date":"March 13",
-		"loc":"Paris, FR",
-		"venue":"Point Ephemere",
-		"link":"https://link.dice.fm/dfd58b9f3582"
+		"date":"September 1",
+		"loc":"Dorset, UK",
+		"venue":"End of the Road Festival",
+		"link":"https://endoftheroadfestival.com/"
 	},
 	{
-		"date":"March 15",
-		"loc":"Nantes, FR",
-		"venue":"Pole Etudiant",
-		"link":""
+		"date":"September 2",
+		"loc":"Birmingham, UK",
+		"venue":"Supersonic Festival",
+		"link":"https://supersonicfestival.com/"
 	},
 		{
-		"date":"March 16",
-		"loc":"Tourcoing, FR",
-		"venue":"Le Grand Mix",
-		"link":"https://legrandmix.com/fr/agenda/horse-lords"
+		"date":"October 6",
+		"loc":"Barreiro, PT",
+		"venue":"Out.Fest",
+		"link":"https://outfest.pt/eng/"
 	},
 		{
-		"date":"March 17",
-		"loc":"Gent, BE",
-		"venue":"De Boer",
-		"link":"https://apps.ticketmatic.com/widgets/vooruit/flow/tickets?event=159396900015&l=nl#!/addtickets"
-	},
-	
-			{
-		"date":"March 18",
-		"loc":"Brussels, BE",
-		"venue":"Beursschouwbourg",
-		"link":"https://apps.ticketmatic.com/widgets/beursschouwburg/flow/tickets?event=655499502850&l=en#!/addtickets"
+		"date":"October 13",
+		"loc":"Bydgoscz, PL",
+		"venue":"Fonomo Music & Film Festival",
+		"link":"https://www.instagram.com/fonomo_festival/?hl=en"
 	}
 	
 	
