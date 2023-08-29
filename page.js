@@ -42,6 +42,13 @@ var dates = [
 		"loc":"Belgrade, Serbia",
 		"venue":"Changeover Festival",
 		"link":"http://changeoverfestival.com/"
+	},
+	,
+	{
+		"date":"November 10 - 12",
+		"loc":"Wels, Austria",
+		"venue":"Music Unlimited",
+		"link":"https://www.waschaecht.at/music-unlimited/de"
 	}
 	
 	
