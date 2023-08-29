@@ -1,67 +1,47 @@
 
 var dates = [
 
-      {
-		"date":"June 16 ",
-		"loc":"Paris, FR",
-		"venue":"Centre Pompidou",
-	    "link":	""
-	},
-        
-	
-        {
-		"date":"July 22",
-		"loc":"Vigo, ES",
-		"venue":"Sinsal Festival",
-		"link":"https://festival.sins.al/gl"
-	},
-	{
-		"date":"August 4",
-		"loc":"Genk, BE",
-		"venue":"Absolutely Free Festival",
-		"link":"https://www.instagram.com/absolutelyfreefestival/?hl=en"
-	},
-		{
-		"date":"August 5",
-		"loc":"Cernoy, FR",
-		"venue":"Celebration Days",
-		"link":"https://celebrationdays.org/"
-	},
-		{
-		"date":"August 6",
-		"loc":"Liege, BE",
-		"venue":"Micro Festival",
-		"link":"https://microfestival.be/"
-	},
 		{
 		"date":"August 31",
-		"loc":"London, UK",
+		"loc":"London, United Kingdom",
 		"venue":"Studio 9294",
 		"link":"http://studio9294.co.uk/"
 	},
 		{
 		"date":"September 1",
-		"loc":"Dorset, UK",
+		"loc":"Dorset, United Kingdom",
 		"venue":"End of the Road Festival",
 		"link":"https://endoftheroadfestival.com/"
 	},
 	{
 		"date":"September 2",
-		"loc":"Birmingham, UK",
+		"loc":"Birmingham, United Kingdom",
 		"venue":"Supersonic Festival",
 		"link":"https://supersonicfestival.com/"
 	},
+	{
+		"date":"September 9",
+		"loc":"Corato, Italy",
+		"venue":"Secolare Festival",
+		"link":"https://dice.fm/event/l5ovr-secolare-festival-2023-full-pass-9th-sep-agriturismo-san-giuseppe-corato-tickets?lng=en"
+	},
 		{
 		"date":"October 6",
-		"loc":"Barreiro, PT",
+		"loc":"Barreiro, Portugal",
 		"venue":"Out.Fest",
 		"link":"https://outfest.pt/eng/"
 	},
 		{
 		"date":"October 13",
-		"loc":"Bydgoscz, PL",
+		"loc":"Bydgoscz, Poland",
 		"venue":"Fonomo Music & Film Festival",
 		"link":"https://www.instagram.com/fonomo_festival/?hl=en"
+	},
+	{
+		"date":"October 14",
+		"loc":"Belgrade, Serbia",
+		"venue":"Changeover Festival",
+		"link":"http://changeoverfestival.com/"
 	}
 	
 	
