@@ -83,7 +83,7 @@ var dates = [
 		"date":"March 17",
 		"loc":"Peterborough, NH",
 		"venue":"Nova Arts w/ Ka Baird",
-		"link":"http://changeoverfestival.com/"
+		"link":"http://www.novaarts.org/events/horselords"
 	},,
 	{
 		"date":"March 18",
@@ -95,25 +95,25 @@ var dates = [
 		"date":"March 19",
 		"loc":"Brooklyn, NY",
 		"venue":"Market Hotel w/ Nadah El-Shazly + Ka Baird",
-		"link":""
+		"link":"https://pioneerworks.org/programs/pioneer-works-presents-horse-lords-nadah-el-shazly-and-ka-baird?pin=0159&draft=drafts.51b01122-b509-4344-b56b-ba1be1c0da16&rev=f621039c-8e80-4426-a929-55afc8681a3f"
 	},
 	{
 		"date":"March 20",
 		"loc":"Philadelphia, PA",
 		"venue":"Solar Myth",
-		"link":""
+		"link":"https://link.dice.fm/u1ffcb2d1003"
 	},
 	{
 		"date":"March 21",
 		"loc":"Baltimore, MD",
 		"venue":"Ottobar w/ Ka Baird",
-		"link":"www.theottobar.com"
+		"link":"https://www.etix.com/ticket/p/64210257/horse-lords-baltimore-ottobar"
 	},
 	{
 		"date":"March 22 - 24",
 		"loc":"Knoxville, TN",
 		"venue":"Big Ears Festival",
-		"link":"www.bigearsfestival.com"
+		"link":"https://bigearsfestival.org/passes/"
 	}
 	
 	
