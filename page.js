@@ -84,7 +84,7 @@ var dates = [
 		"loc":"Peterborough, NH",
 		"venue":"Nova Arts w/ Ka Baird",
 		"link":"http://www.novaarts.org/events/horselords"
-	},,
+	},
 	{
 		"date":"March 18",
 		"loc":"Kingston, NY",
