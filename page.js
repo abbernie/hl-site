@@ -67,6 +67,90 @@ var dates = [
 		"loc":"Knoxville, TN",
 		"venue":"Big Ears Festival",
 		"link":"https://bigearsfestival.org/passes/"
+	},
+	{
+		"date":"April 9",
+		"loc":"Berlin, DE",
+		"venue":"Kantine am Berghain",
+		"link":"https://bigearsfestival.org/passes/"
+	},
+	{
+		"date":"April 9",
+		"loc":"Berlin, DE",
+		"venue":"Kantine am Berghain",
+		"link":"https://www.eventbrite.de/e/803859002917?aff=oddtdtcreator"
+	},
+	{
+		"date":"April 12",
+		"loc":"Tralee, IE",
+		"venue":"The Greyhound Bar",
+		"link":"https://nonfaction.com/events/horse-lords/"
+	},
+	{
+		"date":"April 13",
+		"loc":"Belfast, UK",
+		"venue":"Sonorities Festival",
+		"link":"https://sonorities.net/"
+	},
+	{
+		"date":"April 14",
+		"loc":"Dublin, IE",
+		"venue":"The Workman's Club",
+		"link":"https://www.ticketmaster.ie/horse-lords-tickets/artist/1825178"
+	},
+	{
+		"date":"June 28",
+		"loc":"North Adams, MA",
+		"venue":"Wilco's Solid Sound Festival",
+		"link":"https://solidsound.frontgatetickets.com/"
+	},
+	{
+		"date":"July 2",
+		"loc":"Seattle, WA",
+		"venue":"Vera Project",
+		"link":""
+	},
+	{
+		"date":"July 3",
+		"loc":"Portland, OR",
+		"venue":"Mississippi Studios",
+		"link":"https://www.etix.com/ticket/p/57812594/horse-lords-portland-mississippi-studios"
+	},
+	{
+		"date":"July 5",
+		"loc":"San Francisco, CA",
+		"venue":"The Lab",
+		"link":"https://link.dice.fm/cf98df811d0b"
+	},
+	{
+		"date":"July 6",
+		"loc":"Los Angeles, CA",
+		"venue":"Arts & Archives 2220",
+		"link":"https://link.dice.fm/ROKtzlzZWGb"
+	},
+	{
+		"date":"July 20",
+		"loc":"Helsinki, FI",
+		"venue":"Odysseus Festival",
+		"link":"https://www.tiketti.fi/odysseus-2024-kulttuuritehdas-korjaamo-helsinki-lippuja/95372"
+	},
+	{
+		"date":"October 10",
+		"loc":"Stockholm, SE",
+		"venue":"Fasching",
+		"link":"https://nortic.se/ticket/event/54207"
+	},
+	{
+		"date":"October 11",
+		"loc":"Malmö, SE",
+		"venue":"Inkonst",
+		"link":"https://inkonst.com/en/event/horse-lords-rvng-intl-2/"
+	},
+	{
+		"date":"October 12",
+		"loc":"Copenhagen, DK",
+		"venue":"Alice",
+		"link":"https://billet.alicecph.com/da/buyingflow/tickets/19987/39615/"
 	}
 	
 	
