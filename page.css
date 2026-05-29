@@ -61,7 +61,7 @@ body{
 
 	@media(min-width:600px){
 		#content{
-			padding:20px 40px;
+			padding:20px 30px;
 		}
 		ul{
 			margin-left:25vw;
