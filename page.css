@@ -23,6 +23,9 @@ body{
 		overflow: scroll;
 
 	}
+	table{
+		width:100%;
+	}
 	td{
 		font-weight: bold;
 	}
