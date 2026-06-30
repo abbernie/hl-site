@@ -77,15 +77,6 @@ body{
 		width: 100%;
 	}
 
-	@media(max-width:600px){
-		#content{
-			padding:20px 0px;
-		}
-
-		ul{
-			margin-left:10px;
-		}
-	}
 
 	@media(min-width:600px){
 		#content{
@@ -95,4 +86,46 @@ body{
 			margin-left:10px;
 		}
 	}
+
+
+	/* Make text bigger on phones only */
+@media (max-width: 768px) {
+  html {
+    font-size: 18px; /* Increases base size from 16px */
+  }
+  
+  body {
+    font-size: 1.1rem; /* Makes body text larger */
+    line-height: 1.6; /* Improves readability */
+  }
+  
+  p, li, span, div, article, section {
+    font-size: 1.1rem;
+  }
+  
+  h1 {
+    font-size: 2.2rem; /* Bigger main titles */
+  }
+  
+  h2 {
+    font-size: 1.8rem; /* Bigger subtitles */
+  }
+  
+  h3 {
+    font-size: 1.4rem; /* Bigger section headers */
+  }
+  
+  /* Make navigation and buttons more readable */
+  a, button, .nav-link, .menu-item {
+    font-size: 1.1rem;
+  }
+
+  #content{
+			padding:20px 0px;
+		}
+
+		ul{
+			margin-left:10px;
+		}
+}
 
