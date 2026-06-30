@@ -63,6 +63,9 @@ body{
 		background-color:rgb(0,102,161);
 		padding:10px 10px;
 		font-size:0.9em;
+		margin-top: -1px;
+		display: inline-block;
+		width: 100%;
 	}
 
 	@media(max-width:600px){
@@ -84,35 +87,3 @@ body{
 		}
 	}
 
-	
-
-	@media (max-width: 768px) {
-
-  /* Improve readability and spacing */
-  body { padding: 10px; }
-  .container, .main-content, article { width: 100%; padding: 0 10px; }
-
-  /* Ensure images and videos scale */
-  img, iframe, video { max-width: 100%; height: auto; }
-
-  /* Make text more readable */
-  p, li { font-size: 1rem; line-height: 1.6; }
-  h1 { font-size: 1.8rem; }
-  h2 { font-size: 1.5rem; }
-
-  /* Stack columns or side-by-side elements */
-  .flex-row, .columns, .grid { 
-    display: block; 
-    width: 100%; 
-  }
-
-  /* Increase touch target size for links and buttons */
-  a, button { 
-    padding: 8px 12px; 
-    display: inline-block; 
-    min-height: 44px; 
-  }
-
-  /* Adjust margins for better flow */
-  section, .block { margin-bottom: 1.5rem; }
-}
