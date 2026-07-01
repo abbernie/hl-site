@@ -91,7 +91,7 @@ body{
 	/* Make text bigger on phones only */
 @media (max-width: 768px) {
   html {
-    font-size: 18px; /* Increases base size from 16px */
+    font-size: 18pt; /* Increases base size from 16px */
   }
   
   body {
@@ -118,6 +118,10 @@ body{
   /* Make navigation and buttons more readable */
   a, button, .nav-link, .menu-item {
     font-size: 1.1rem;
+  }
+
+  td{
+  	font-size:20pt;
   }
 
   #content{
