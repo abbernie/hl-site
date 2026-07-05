@@ -2,12 +2,7 @@ body{
 		margin:0px;
 		padding:0px;
 		font-family:Helvetica;
-		background-color:rgb(0,102,161);
-
-	}
-
-	div{
-		background-color:rgb(0,102,161);
+		background-color:rgb(0,102,161)
 	}
 
 	#center{
@@ -19,21 +14,9 @@ body{
 		background-color: #fff;
 		color:#000;
 		text-align: center;
-		margin-top: -15px;
+		
 		overflow: scroll;
 
-	}
-
-	table{
-		width:100%;
-		border:solid;
-		border-color: rgb(0,102,161);
-		margin:-1px;
-	}
-
-	td{
-		font-weight: bold;
-		margin:-1px -1px;
 	}
 
 	a{
@@ -46,8 +29,6 @@ body{
 	}
 
 	ul{
-		background-color:rgb(0,102,161);
-
 		font-size:14pt;
 		font-weight: bold;
 		margin:0 auto;
@@ -55,81 +36,35 @@ body{
 		margin-left:25vw;
 		list-style:none;
 		display:inline-block;
-		text-align: left;
-		
+		text-align: center;
+		background-color: #fff;
 	}
 
 	ul li{
-		background-color:rgb(0,102,161);
 		padding-left:10px;
 		display:inline-block;
-		color:rgb(0,102,161);;
 	}
-
-
 
 	td{
-		background-color:rgb(0,102,161);
 		padding:10px 10px;
 		font-size:0.9em;
-		margin-top: -1px;
-		display: inline-block;
-		width: 100%;
 	}
 
+	@media(max-width:600px){
+		#content{
+			padding:20px 0px;
+		}
+
+		ul{
+			margin-left:5vw;
+		}
+	}
 
 	@media(min-width:600px){
 		#content{
 			padding:20px 0px;
 		}
 		ul{
-			margin-left:10px;
+			margin-left:25vw;
 		}
 	}
-
-
-	/* Make text bigger on phones only */
-@media (max-width: 768px) {
-  html {
-    font-size: 18pt; /* Increases base size from 16px */
-  }
-  
-  body {
-    font-size: 1.1rem; /* Makes body text larger */
-    line-height: 1.6; /* Improves readability */
-  }
-  
-  p, li, span, div, article, section {
-    font-size: 1.1rem;
-  }
-  
-  h1 {
-    font-size: 2.2rem; /* Bigger main titles */
-  }
-  
-  h2 {
-    font-size: 1.8rem; /* Bigger subtitles */
-  }
-  
-  h3 {
-    font-size: 1.4rem; /* Bigger section headers */
-  }
-  
-  /* Make navigation and buttons more readable */
-  a, button, .nav-link, .menu-item {
-    font-size: 1.1rem;
-  }
-
-  td{
-  	font-size:2.9em;
-  }
-
-  #content{
-			padding:20px 0px;
-		}
-
-		ul{
-			margin-left:10px;
-		}
-}
-
