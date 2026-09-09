@@ -12,6 +12,7 @@ body{
 		border-radius: 10px;
 		/*box-shadow: 1px 1px 10px #e0e0e0;*/
 		color:#000;
+		font-weight: bold;
 		text-align: center;
 		background-color:rgb(0,102,161);
 		overflow: scroll;
